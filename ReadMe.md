@@ -11,3 +11,7 @@ For the Frontend Streamlit is used for quick turnaround.
 # Running on localhost
 `streamlit run app.py`
 
+# Sample
+
+![Alt text](image.png)
+
